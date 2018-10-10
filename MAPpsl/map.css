@@ -1,0 +1,181 @@
+
+.logo {
+    color: grey;
+    font-size: 4vw;
+    padding-bottom: 3%;
+    margin-left: 10%;
+}
+
+.menu .lab {
+    font-size: 15px;
+    display: inline;
+    padding-left: 5%;
+    padding-right: 5%;
+    font-family: 'Roboto Condensed', sans-serif;
+    color: grey;
+}
+
+.menu .lab:hover {
+    text-decoration: none;
+    color: grey; 
+}
+
+.mygtukai {
+    padding-top: 7%;
+}
+
+.custom-button {
+    background-color: #42d7f4;
+    border-radius: 25px;
+    color: white;
+    border: none;
+    padding: 2% 4%;   
+}
+
+.custom-button:hover {
+    text-decoration: none;
+    color: white;
+}
+
+.pic {
+    background-image: url("11.jpg");
+    width: 100%;
+    height: auto;
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+     text-align: center;
+}
+
+p {
+    text-align: center;
+    font-weight: 700; 
+}
+
+.about {
+    height: 20vh;
+    margin-bottom: 8%;
+}
+
+h2 {
+    font-size: 40px;
+    color: #42d7f4;
+    text-align: center;
+    padding-top: 3%;
+}
+
+.text1 {
+    margin-top: 3%;
+}
+
+.team {
+    margin-top: 5%;
+    color:white;
+    text-align: center;
+    margin-top:1%;
+    max-height: 500px;
+    background-color: #42d7f4;
+}
+
+h3 {
+    padding-top: 3%;
+    font-size: 40px;
+}
+
+.foto1, .foto2, .foto3 {
+    text-align: center;
+}
+
+h4 {
+    font-size: 20px;
+    font-family: 'Roboto Condensed', sans-serif;
+    margin-top: 7%;
+    font-weight: 700;
+    margin-bottom: 0px;
+}
+
+.row .ft {
+    padding-top: 100px;
+}
+
+.foto1, .foto2, .foto3 {
+    padding: 10px; 
+}
+
+h5 {
+    font-size: 15px;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.work {
+    background-color: #42d7f4;
+    border-radius: 25px;
+    color: white;
+    border: 2px solid white;
+    padding: 1% 30%;
+}
+
+.btn {
+    padding-top: 130px;
+}
+
+.work:hover {
+    text-decoration: none;
+    color: white;
+}
+
+.google-maps {
+    position: relative;
+    padding-bottom: 75%;
+    height: 0;
+    overflow: hidden;
+}
+.google-maps iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%; 
+    height: 100%; 
+}
+
+.back-g {
+    background-color: rgb(53, 51, 51);
+}
+
+.end {
+    padding-right: 20px;
+}
+
+.med {
+    border: 2px solid white;
+    border-radius: 100%;
+    padding: 8px 10px;
+    color: white;
+}
+
+.med:hover {
+    color: white;
+}
+
+#fcb {
+    padding: 9px 4px;
+}
+
+.end a {
+    color: white;
+    text-decoration: none;
+}
+
+.egg a {
+    color: grey;
+    text-decoration: none;
+}
+
+.str {
+    position: relative;
+    font-size: 20px;
+    bottom: 5px;
+}

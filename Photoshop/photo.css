@@ -1,0 +1,371 @@
+body {
+    border-top: 4px solid #81b300;
+}
+
+h1 {
+    font-family: georgia;
+}
+
+.logo1 {
+    margin-top: 50px;
+}
+
+.logo1::first-letter {
+    font-size: 120%;
+}
+
+.another {
+    color: grey;
+    font-family: Georgia;
+}
+
+.boxy {
+    background-color: #81b300;
+    height: 55px;
+    width: 315px;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    float: right;
+    padding: 0px 12px;
+}
+
+.boxy ul {
+    padding: 0px;
+}
+
+.boxy img {
+    margin: 5px;
+}
+
+li {
+    display: inline;
+    padding-right: 3px;
+    margin-bottom: 0px; 
+}
+
+.main-list {
+    margin-top: 46px;
+    float: right;
+}
+
+.main-list a {
+    text-decoration: none;
+    color: #81b300;
+    font-family: Georgia;
+    font-size: 15px;
+}
+
+.my-menu {
+    background: #81b300;
+    margin-top: 40px;
+}
+
+.menu-wrappers ul {
+    list-style: none;
+    margin-bottom: 0px;
+    padding-left: 0px;
+}
+
+.menu-wrappers ul li {
+    display: inline;
+}
+
+.menu-wrappers ul li a {
+    display: inline-block;
+    padding: 5px 10px;
+    color: #fff;
+    text-transform: uppercase;
+}
+
+.menu-wrappers ul li a:hover {
+    color: #000000;
+    text-decoration: none;
+}
+
+.menu-wrappers {
+    float: left;
+    width: 65%;
+}
+
+.search-wrappers {
+    float: left;
+    width: 35%;
+}
+
+.my-form {
+    position: relative;
+}
+
+.first {
+    width: 100%;
+    padding: 5px 70px 5px 10px;
+}
+
+.second {
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    color: #81b300;
+    background: #fff;
+    height: 32px;
+    border: 0px solid #81b300;
+    border-left: 1px solid #dcdcdc;
+    margin-top: 1px;
+}
+
+.ft-wrapper {
+    background-color: #f2f2f2;
+}
+
+.img-wrapper {
+    background-color: white;
+    padding: 10px;
+    border: 2px solid #ebebeb;
+    margin-top: 40px;
+}
+
+.kitty {
+    width: 100%;
+}
+
+.kitty-slider {
+    margin-top: 27px;
+    margin-bottom: 37px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.inside-wrapper a {
+    text-decoration: none;
+    display: inline-block;
+    width: 24%;
+    padding: 60px 24px;
+}
+
+.nice-logo {
+    text-align: center;
+}
+
+.ipsum {
+    color: #909090;
+}
+
+.lorem {
+    color: #8fbc1d;
+}
+
+.ipsum p {
+    text-align: justify;
+}
+
+.green-background {
+    padding: 20px 0;
+}
+
+.four {
+    display: inline-block;
+    width: 24%;
+    padding: 60px 30px;
+}
+
+.texts {
+    text-align: left;
+    color: #b8b8b8;
+}
+
+.name-is {
+    text-align: left;
+    color: #636363;
+}
+
+.cats {
+    background-color: white;
+    border: 2px solid #eeee;
+    text-align: center;
+    padding: 10px 0px;
+}
+
+.little-things {
+    float: right;
+    color: #81b300;
+}
+
+.wrap {
+    border-top: 2px solid #e8e8e8;
+}
+
+.greyy {
+    background-color: #3b3b3b;
+}
+
+h5 {
+    text-transform: uppercase;
+    color: #646464;
+    font-family: Georgia;
+    font-size: 16px;
+    text-align: left;
+    margin: 20px 0px;
+}
+
+.footer-one {
+    float: left;
+    width: 23%;
+    padding: 50px 20px;
+}
+
+.paragraphs {
+    font-family: georgia;
+    color: #8a8a8a;
+    font-size: 16px;
+}
+
+.number1 .fast .blogg .news {
+    text-align: left;
+}
+
+.fast > p {
+    border-bottom: 1px solid #434343;
+    padding-bottom: 3px;
+    margin-bottom: 3px;
+}
+
+.moore {
+    float: right;
+    color: #81b300;
+}
+
+.mail {
+    margin: 5px 0px;
+    border-radius: 10px;
+    color: #999999;
+    width: 100%;
+    padding: 8px;
+    background-color: #1f1f1f;
+    border: none;
+}
+
+.ok {
+    margin: 5px 0px;
+    border-radius: 10px;
+    color: #81b300;
+    width: 40%;
+    padding: 5px;
+    background-color: #1f1f1f;
+    border: none;
+}
+
+.last {
+    background-color: #2e2e2e;
+}
+
+.ernis, .example {
+    color: #616161;
+    margin: 20px;
+}
+
+.ernis {
+    float: left;
+}
+
+.example {
+    float: right;
+}
+
+@media only screen and (max-width: 990px) {
+    .boxy, .main-list {
+        float: left;
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width: 990px) {
+    .boxy ul, .main-list, .logo1, .another {
+        text-align: center;
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width: 1024px) {
+    .boxy ul, .main-list, .logo1, .another {
+        float: left;
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width: 990px) {
+    .inside-wrapper a {
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width: 1024px) {
+    .inside-wrapper a {
+        width: 50%;
+        float: left;
+        padding: 20px;
+    }
+}
+
+@media only screen and (max-width: 360px) {
+    .four {
+        width: 100%;
+        float: left;
+    }
+}
+
+@media only screen and (max-width: 990px) {
+    .four {
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width: 1024px) {
+    .four {
+        width: 100%;
+        float: left;
+        margin: 10px;
+        padding: 10px;
+    }
+}
+
+@media only screen and (max-width: 1024px) {
+    .name-is, .texts  {
+        text-align: center;
+    }
+}
+
+@media only screen and (max-width: 360px) {
+    .footer-one, h5 {
+        width: 50%;
+        float: left;
+    }
+}
+
+@media only screen and (max-width: 990px) {
+    .footer-one, h5 {
+        width: 100%;
+        text-align: center;
+        padding: 10px;
+    }
+}
+
+@media only screen and (max-width: 360px) {
+    .ernis, .example {
+        width: 100%;
+        float: left;
+    }
+}
+
+@media only screen and (max-width: 320px) {
+    .boxy ul li {
+        padding: 0px;
+        float: left;
+    }
+}
+
+@media only screen and (max-width: 360px) {
+    .menu-wrappers ul {
+        float: left;
+    }
+}

@@ -1,0 +1,156 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.header-menu {
+   padding: 15px 25px;
+}
+
+.header-menu ul {
+    list-style: none;
+    margin-bottom: 0px;
+    padding-left: 0px;
+}
+
+.header-menu ul li {
+    display: inline;
+    font-size: 16px;
+}
+
+.header-menu ul li a {
+    float: left;
+    padding: 40px 7px;
+    color: black;
+}
+
+.header-menu ul li a:hover {
+    color: #d3297f;
+}
+
+.header-menu ul li a:hover {
+    text-decoration: none;
+}
+
+.button-wrappers a {
+    color: white;
+    border-radius: 5px;
+    background-color: #d3297f;
+    width: 100px;
+    font-size: 16px;
+    text-decoration: none;
+    padding: 5px 8px;
+}
+
+.button-wrappers {
+    float: left;
+    margin-top: 38px;
+}
+
+.first {
+    margin-top: 100px;
+    margin-bottom: 80px;
+    font-size: 16px;
+}
+
+.wgt-text {
+    width: 60%;
+}
+
+.foto1 {
+    margin-bottom: 100px;
+}
+
+.text-wrapper {
+    font-size: 14px;
+    float: left;
+    padding-right: 100px;
+    margin-bottom: 50px;
+}
+
+.ment-wrapper {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.ment {
+    padding: 20px;
+}
+
+.ment-ft {
+    width: 150px;
+    height: 250px;
+    float: left;
+    margin-left: 20px;
+    margin-right: 10px;
+    margin-bottom: 40px;
+    p {
+        font-size: 14px;
+        text-align: center;
+    } 
+}
+
+.ment-ft img {
+    width: 150px;
+}
+
+.slider {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+    padding-bottom: 20px;
+    padding-top: 70px;
+}
+
+.how-it-works {
+    text-align: left;
+}
+
+.background-cover {
+    background-image: url("karpyti-failai/pink_bg.png");
+    background-size: 100% 100%;
+    padding: 60px;
+        h3 {
+            color: white;
+            text-align: left;
+            padding-top: 20px;
+        }
+        p {
+            color: white;
+            font-size: 14px;
+        }
+}
+
+.november {
+    width: 30%;
+    height: 370px;
+    h4, p {
+        text-align: left;
+    }
+}
+
+.december {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-flow: wrap;
+}
+
+.team {
+    text-align: left;
+    margin-bottom: 30px;
+}
+
+.name {
+    font-size: 1rem;
+    text-align: center;
+}
+
+.blue-img {
+    margin-right: 40px;
+}
+
+h3, .team {
+    padding: 0;
+}

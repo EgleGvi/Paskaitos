@@ -1,0 +1,84 @@
+.red {
+    background-color: rgb(191, 55, 55, 0.7);
+    border-color: rgb(191, 55, 55);
+    left: calc(50% - 150px);
+    top: 0;
+    animation-name: red;
+}
+   
+.blue {
+    background-color: rgb(44, 52, 150, 0.5);
+    border-color: rgb(44, 52, 150);
+    top: calc(100% - 300px);
+    left: 0;
+    animation-name: blue;
+}
+
+.green {
+    background-color: rgb(11, 246, 70, 0.6);
+    border-color: rgb(11, 246, 70);
+    top: calc(100% - 300px);
+    left: calc(100% - 300px);
+    animation-name: green;
+}
+
+.red, .blue, .green {
+    animation-duration: 4s;
+}
+
+
+span {
+    font-size: 32px;
+    font-weight: 900;
+    position: relative;
+    top: calc(50% - 18.5px);
+    left: calc(50% - 11.5px);
+}
+
+
+
+@keyframes red {
+0% {
+    top: calc(50% - 150px);
+    left: calc(50% - 150px);
+}
+50% {
+    top: calc(50% - 150px);
+    left: calc(50% - 150px);
+}
+100% {
+    left: calc(50% - 150px);
+    top: 0;
+}
+}
+
+@keyframes blue {
+0% {
+    top: calc(50% - 150px);
+    left: calc(50% - 150px);
+    }
+50% {
+    top: calc(50% - 150px);
+    left: calc(50% - 150px);
+    }
+100% {
+    top: calc(100% - 300px);
+    left: 0;
+}
+}
+
+
+@keyframes green {
+0% {
+    top: calc(50% - 150px);
+    left: calc(50% - 150px);
+}
+50% {
+    top: calc(50% - 150px);
+    left: calc(50% - 150px);
+}
+100% {
+    top: calc(100% - 300px);
+    left: calc(100% - 300px);
+}
+}
