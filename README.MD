@@ -1,3 +1,7 @@
+### Clone repository
+
+`git clone https://github.com/EgleGvi/Paskaitos.git`
+
 ### Pull changes
 
 `git pull`
