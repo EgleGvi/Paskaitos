@@ -306,6 +306,62 @@
         </div>
     </div>
 </div>
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <h3 class="sponsors">Rėmėjai</h3>
+            <div class="sp-logo">
+                <img class="sponsors-logo" src="img/baltic.png">
+                <img class="sponsors-logo" src="img/banga.png">
+                <img class="sponsors-logo" src="img/borjomi.png">
+                <img class="sponsors-logo" src="img/omnitel.png">
+                <img class="sponsors-logo" src="img/robo.png">
+                <img class="sponsors-logo" src="img/lrt.png">
+                <img class="sponsors-logo" src="img/lrytas.png">
+                <img class="sponsors-logo" src="img/uostas.png">
+                <img class="sponsors-logo" src="img/utena.png">
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container">
+    <div class="row">
+        <div class="col-md-6">
+            <h3>Aplikuok šiandien!</h3>
+            <p>Paskubėk, registracija vyksta iki gruodžio 21 dienos.</p>
+            <div class="form-wrapper">
+                <form action="/action_page.php">
+                <p>Tavo vardas ir pavardė</p>
+                <input type="text" name="firstname">
+                <br>
+                <br>
+                <br>
+                <p>El. paštas</p>
+                <input type="text" name="lastname">
+                <br>
+                <br>
+                <br>
+                <p>Tel. Numeris</p>
+                <input type="text" name="firstname">
+                <br>
+                <br>
+                <br>
+                <p>Kodėl nori aplikuoti?</p>
+                <input type="text" name="firstname">
+                <br>
+                <br>
+                <br>
+                </form>
+                <div class="button-wrappers">
+                    <a href="#">Registruokis Dabar</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-6">
+            <img src="img/forma.jpg">
+        </div>
+    </div>
+</div>
 
 
 <?php include 'footer.php';?>

@@ -7,7 +7,7 @@ body {
 .header-menu ul {
   list-style: none;
   margin-bottom: 0px;
-  padding-left: 0px; }
+  padding-left: 10px; }
 
 .header-menu ul li {
   display: inline;
@@ -45,8 +45,10 @@ body {
 .wgt-text {
   width: 60%; }
 
-.foto1 {
-  margin-bottom: 100px; }
+.foto1 img {
+  margin-bottom: 100px;
+  width: 100%;
+  height: auto; }
 
 .text-wrapper {
   font-size: 14px;
@@ -115,7 +117,7 @@ body {
   margin-bottom: 30px; }
 
 .team-text {
-  padding-top: 60px;
+  padding-top: 10px;
   padding-bottom: 60px; }
 
 .name {
@@ -160,5 +162,50 @@ h3 .team {
 
 .pagalbinis2 {
   padding-top: 40px; }
+
+.sponsors {
+  text-align: center; }
+
+.sponsors-logo {
+  max-width: 150px;
+  max-height: 80px;
+  margin: 20px; }
+
+.form-wrapper input {
+  border-bottom: 2px solid #98989a;
+  width: 80%;
+  border-top: none;
+  border-left: none;
+  border-right: none; }
+
+.footer-wrapper {
+  background-color: #26254f; }
+
+.footer-menu {
+  padding: 15px 25px; }
+
+.footer-menu ul {
+  list-style: none;
+  margin-bottom: 0px;
+  padding-left: 10px; }
+
+.footer-menu ul li {
+  display: inline;
+  font-size: 16px; }
+
+.footer-menu ul li a {
+  float: left;
+  padding: 40px 7px;
+  color: #9492ba; }
+
+.footer-menu ul li a:hover {
+  text-decoration: none; }
+
+.footer-icon {
+  margin-top: 40px; }
+
+.footer-contact p {
+  color: #cccbeb;
+  padding-top: 30px; }
 
 /*# sourceMappingURL=stylescss.css.map */
