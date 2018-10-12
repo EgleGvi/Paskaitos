@@ -31,7 +31,12 @@
             </div>
             <div class="row">
                 <div class="col-md-12">
-                    <div class="line"></div>
+                    <div class="tech">
+                        <span class="women-go">&#169; 2018 Women Go Tech. Visos teisės saugomos</span>
+                        <span class="design">Kodas: <a href="#">itbrolis.lt</a></span>
+                        <span class="design">Dizainas: <a href="#">leonov.lt</a></span>
+                        
+                    </div>
                 </div>
             </div>
         </div>
