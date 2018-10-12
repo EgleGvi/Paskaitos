@@ -21,10 +21,17 @@
                             <li><a href="#">Komanda</a></li>
                             <li><a href="#">Tinklaraštis</a></li>
                         </ul>
+                    </div>
+                    <div class="icon-wrapper">
                         <img class="footer-icon" src="img/fb.jpg">
                         <img class="footer-icon" src="img/in.jpg">
                         <img class="footer-icon" src="img/you.jpg">
                     </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="line"></div>
                 </div>
             </div>
         </div>

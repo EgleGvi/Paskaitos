@@ -327,8 +327,10 @@
 <div class="container">
     <div class="row">
         <div class="col-md-6">
-            <h3>Aplikuok šiandien!</h3>
-            <p>Paskubėk, registracija vyksta iki gruodžio 21 dienos.</p>
+            <span class="today">
+                <h3>Aplikuok šiandien!</h3>
+                <p>Paskubėk, registracija vyksta iki gruodžio 21 dienos.</p>
+            </span>
             <div class="form-wrapper">
                 <form action="/action_page.php">
                 <p>Tavo vardas ir pavardė</p>
@@ -352,7 +354,7 @@
                 <br>
                 <br>
                 </form>
-                <div class="button-wrappers">
+                <div class="button-wrappers-footer">
                     <a href="#">Registruokis Dabar</a>
                 </div>
             </div>

@@ -272,29 +272,9 @@ h5 {
     float: right;
 }
 
-@media only screen and (max-width: 990px) {
-    .boxy, .main-list {
-        float: left;
-        width: 100%;
-    }
-}
-
-@media only screen and (max-width: 990px) {
-    .boxy ul, .main-list, .logo1, .another {
-        text-align: center;
-        width: 100%;
-    }
-}
-
 @media only screen and (max-width: 1024px) {
     .boxy ul, .main-list, .logo1, .another {
         float: left;
-        width: 100%;
-    }
-}
-
-@media only screen and (max-width: 990px) {
-    .inside-wrapper a {
         width: 100%;
     }
 }
@@ -304,19 +284,6 @@ h5 {
         width: 50%;
         float: left;
         padding: 20px;
-    }
-}
-
-@media only screen and (max-width: 360px) {
-    .four {
-        width: 100%;
-        float: left;
-    }
-}
-
-@media only screen and (max-width: 990px) {
-    .four {
-        width: 100%;
     }
 }
 
@@ -335,10 +302,29 @@ h5 {
     }
 }
 
-@media only screen and (max-width: 360px) {
-    .footer-one, h5 {
-        width: 50%;
+@media only screen and (max-width: 990px) {
+    .inside-wrapper a {
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width: 990px) {
+    .boxy, .main-list {
         float: left;
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width: 990px) {
+    .boxy ul, .main-list, .logo1, .another {
+        text-align: center;
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width: 990px) {
+    .four {
+        width: 100%;
     }
 }
 
@@ -351,8 +337,28 @@ h5 {
 }
 
 @media only screen and (max-width: 360px) {
+    .four {
+        width: 100%;
+        float: left;
+    }
+}
+
+@media only screen and (max-width: 360px) {
+    .footer-one, h5 {
+        width: 100%;
+        float: left;
+    }
+}
+
+@media only screen and (max-width: 360px) {
     .ernis, .example {
         width: 100%;
+        float: left;
+    }
+}
+
+@media only screen and (max-width: 360px) {
+    .menu-wrappers ul {
         float: left;
     }
 }
@@ -364,8 +370,3 @@ h5 {
     }
 }
 
-@media only screen and (max-width: 360px) {
-    .menu-wrappers ul {
-        float: left;
-    }
-}

@@ -3,7 +3,7 @@ body {
 }
 
 .header-menu {
-   padding: 15px 25px;
+   padding: 15px 0px 15px 60px;
 }
 
 .header-menu ul {
@@ -31,19 +31,24 @@ body {
     text-decoration: none;
 }
 
-.button-wrappers a {
+.button-wrappers {
+    float: left;
+    margin-top: 40px;
+}
+
+.button-wrappers a, .button-wrappers-footer a  {
     color: white;
     border-radius: 5px;
     background-color: #d3297f;
     width: 100px;
-    font-size: 16px;
+    font-size: 14px;
     text-decoration: none;
-    padding: 5px 8px;
+    padding: 8px 10px;
 }
 
-.button-wrappers {
+.button-wrappers-footer {
     float: left;
-    margin-top: 38px;
+    margin-top: 10px;
 }
 
 .first {
@@ -71,7 +76,7 @@ body {
 
 .ment-wrapper {
     text-align: center;
-    margin-bottom: 50px;
+    margin-bottom: 80px;
 }
 
 .ment {
@@ -97,22 +102,24 @@ body {
 
 .slider {
     text-align: center;
+    padding-top: 20px;
 }
 
 .h-it-w {
     text-align: center;
-    padding-bottom: 60px;
+    padding-bottom: 80px;
     padding-top: 60px;
 }
 
 .how-it-works {
     text-align: left;
+    margin-bottom: 80px;
 }
 
 .background-cover {
     background-image: url("karpyti-failai/pink_bg.png");
     background-size: 100% 100%;
-    padding: 60px;
+    padding: 150px;
         h3 {
             color: white;
             text-align: left;
@@ -204,6 +211,11 @@ h3 .team {
 
 .sponsors {
     text-align: center;
+    padding: 50px;
+}
+
+.sp-logo {
+    padding-bottom: 80px;
 }
 
 .sponsors-logo {
@@ -212,16 +224,37 @@ h3 .team {
     margin: 20px;
 }
 
+.today h3 {
+    margin-bottom: 16px;
+}
+
+.today p {
+    font-size: 24px;
+    color: #aeadb2;
+    padding-bottom: 20px;
+}
+
+.form-wrapper {
+    color: #aeadb2;
+}
+
 .form-wrapper input {
     border-bottom: 2px solid #98989a;
     width: 80%;
     border-top: none;
     border-left: none;
     border-right: none; 
+    outline: none;
+}
+
+.form-wrapper input:hover {
+    outline: none;
 }
 
 .footer-wrapper {
     background-color: #26254f;
+    margin-top: 100px;
+    position: relative;
 }
 
 .footer-menu {
@@ -251,9 +284,22 @@ h3 .team {
 
  .footer-icon {
     margin-top: 40px;
+    padding: 5px;
  }
 
  .footer-contact p {
      color: #cccbeb;
      padding-top: 30px;
+     font-size: 14px;
+ }
+
+ .icon-wrapper {
+     position: absolute;
+     top: 10px;
+     right: 0px;
+ }
+
+ .line {
+     border-bottom: 2px solid #26254f;
+     border-style: groove;
  }
