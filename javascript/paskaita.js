@@ -116,10 +116,10 @@
                         return "Labas, pasauli";
                 }
                 if (language == "de") {
-                        return "Hallo welt";
+                        return "Hallo, welt";
                 }
                 if (language == "lv") {
-                        return "Sveiks pasaule";
+                        return "Sveiks, pasaule";
                 }
                 return "Hello, World";
         }
@@ -159,4 +159,104 @@
                 if (number > 1) {
                         return number + " " + noun + "s";
                 }
+        }
+
+
+//ciklai
+
+
+        var arrayM = [ 22, 64, 0, -55, 4, 7, -1, 8, -66 ];
+        var suma = 0;
+        var i = 0;
+        var ilgis = arrayM.length;
+
+        console.log('arrayM.length lygu:' + arrayM.length );
+        while (i < arrayM.length) {
+                suma += arrayM[i];
+                i++;
+        }
+         var average = suma / ilgis;
+        console.log(average);
+
+
+
+        var s = "";
+        var i;
+         for(i=0; i<=20; i++) {
+             s += "skaicius" + i + " ";
+             console.log(i);
+         }
+
+
+        var s = "";
+        var i;
+        for(i=0; i<=20; i=i+4) {
+            s += "skaicius" + i + " ";
+            console.log(i);
+        }
+
+
+        document.querySelector(".js-target").innerHTML = document.querySelector(".treciokas").innerHTML;
+
+
+// 17.1
+
+        var counter = -10;
+
+        while(counter < 20){
+            console.log(counter);
+            counter++;
+        }
+// 17.2
+
+        var counter = 10;
+
+        while(counter <= 40){
+                if (counter % 2 == 0) {
+                    console.log(counter);
+                }
+            counter+=1;
+        }
+
+// 17.3
+
+        var counter = 300;
+        while(counter <= 333){
+            if(counter % 2 !== 0){
+                console.log(counter);
+            }
+            counter+=1;
+        }
+
+// 17.4
+
+        var counter = 5;
+
+        while(counter <= 50){
+            if(counter % 5 === 0 && counter % 3 === 0){
+                console.log(counter);
+            }
+            counter+=1;
+        }
+
+// 17.5
+
+        function square (number, power) {
+                var answer = 1;
+            for(i=0; i<power; i++) {
+                answer = answer * number;
+            }
+            console.log(answer);
+        }
+
+// 17.6
+
+        function chairs (row, chairs) {
+            var kedesEileje = chairs;
+            var sum = kedesEileje;
+            for(i=1; i<row; i++) {
+                kedesEileje = kedesEileje + 2;
+                sum += kedesEileje; //sum = sum + kedesEileje;
+            }
+            console.log(sum);
         }
