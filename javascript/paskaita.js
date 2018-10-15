@@ -116,14 +116,15 @@
                         return "Labas, pasauli";
                 }
                 if (language == "de") {
-                        return "Labas, pasauli vokiskai";
+                        return "Hallo welt";
                 }
-                if (language == "es") {
-                        return "Labas, pasauli estiskai";
+                if (language == "lv") {
+                        return "Sveiks pasaule";
                 }
                 return "Hello, World";
         }
 
+        
         function grade (gradeNumber) {
                 if (gradeNumber == 10) {
                         return "A";

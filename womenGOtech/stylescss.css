@@ -246,12 +246,13 @@ h3 .team {
 
 .tech {
   padding-top: 20px;
-  border-top: 4px groove #323159; }
+  border-top: 4px groove #2b2a5233; }
 
 .women-go {
   color: #9492ba;
   font-size: 14px;
-  float: left; }
+  float: left;
+  padding-bottom: 20px; }
 
 .design {
   color: #9492ba;
@@ -261,7 +262,6 @@ h3 .team {
   color: #f6f6ff; }
 
 .design a {
-  color: #f6f6ff;
-  text-decoration: 2px solid #f6f6ff; }
+  color: #f6f6ff; }
 
 /*# sourceMappingURL=stylescss.css.map */
