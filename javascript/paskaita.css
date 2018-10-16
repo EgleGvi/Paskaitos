@@ -1,3 +1,9 @@
+.table-js tr td {
+  border: 2px solid black;
+  padding: 10px; }
 
+.table-js {
+  margin-top: 50px;
+  margin-left: 50px; }
 
 /*# sourceMappingURL=paskaita.css.map */

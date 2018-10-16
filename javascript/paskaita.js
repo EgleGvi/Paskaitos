@@ -47,7 +47,7 @@
                 var array1area = area (array1[0], array1[1], array1[2], array1[3], array1type);
                 var array2area = area (array2[0], array2[1], array2[2], array2[3], array2type);
 
-                var html = "<table>";
+                var html = "<table class='table-js'>";
                 html+="<tr><td>"+array0type+"</td><td>"+array0[0]+" "+array0[1]+" "+array0[2]+" "+array0[3]+"</td><td>"+array0perimeter+"</td><td>"+array0area+"</td></tr>";
                 html+="<tr><td>"+array1type+"</td><td>"+array1[0]+" "+array1[1]+" "+array1[2]+" "+array1[3]+"</td><td>"+array1perimeter+"</td><td>"+array1area+"</td></tr>";
                 html+="<tr><td>"+array2type+"</td><td>"+array2[0]+" "+array2[1]+" "+array2[2]+" "+array2[3]+"</td><td>"+array2perimeter+"</td><td>"+array2area+"</td></tr>";
@@ -246,8 +246,9 @@
             for(i=0; i<power; i++) {
                 answer = answer * number;
             }
-            console.log(answer);
+            console.log(answer.toFixed(2));
         }
+
 
 // 17.6
 
@@ -260,3 +261,14 @@
             }
             console.log(sum);
         }
+
+
+// 17.7
+
+        function year (m, n) {
+            for(i=m; i<n; i++) {
+            if(i % 4 == 0 && i % 100 !== 0 || i % 400 == 0)
+                console.log(i);
+            }
+        }
+
