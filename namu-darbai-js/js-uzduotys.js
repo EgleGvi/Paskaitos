@@ -23,15 +23,26 @@ console.log(alphabet(abc));
 function addTable() {
     console.log('veikia');
 
-    var kdate = document.getElementById('date').value;
-    var knr = document.getElementById('nr').value;
-    var kkm = document.getElementById('km').value;
-    var ktime = document.getElementById('time').value;
+    var kdate = document.getElementById('date');
+    var knr = document.getElementById('nr');
+    var kkm = document.getElementById('km');
+    var ktime = document.getElementById('time');
 
-    console.log(kdate);
-    console.log(knr);
-    console.log(kkm);
-    console.log(ktime);
+    console.log(kdate.value);
+    console.log(knr.value);
+    console.log(kkm.value);
+    console.log(ktime.value);
 
+    var table = document.getElementById('table-js');
+    var row = table.insertRow();
+    row.insertCell().innerHTML = kdate.value;
+    row.insertCell().innerHTML = knr.value;
+    row.insertCell().innerHTML = kkm.value;
+    row.insertCell().innerHTML = ktime.value;
+
+    kdate.value = "";
+    knr.value = "";
+    kkm.value = "";
+    ktime.value = "";
 
 }

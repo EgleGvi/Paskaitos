@@ -289,17 +289,17 @@
 
         function far() {
             var fh = document.querySelector('[name="fh"]').value;
-            far = (fh -32) / 1.8;
+            var farToCel = (fh -32) / 1.8;
 
-            var cl = document.querySelector('[name="cl"]') cl.value = far;
+            var cl = document.querySelector('[name="cl"]');
+            cl.value = farToCel;
         }
 
-/*function suma() {
-    var eKiekis = document.querySelector('[name="kiekis"]');
-    console.log(eKiekis);
-    var eKaina = document.querySelector('[name="kaina"]');
-    var eSuma = document.querySelector('[name="suma"]');
-    eSuma.value = Number(eKiekis.value) + Number(eKaina.value);
-}
-*/
+        function cel() {
+            var cl = document.querySelector('[name="cl"]').value;
+            var celToFar = 1.8 * cl + 32;
+
+            document.querySelector('[name="fh"]').value=celToFar;
+        }
+
 
