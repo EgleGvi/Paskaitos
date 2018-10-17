@@ -37,6 +37,17 @@
         </div>
     </div>
 
+    <div>
+        <p id="red">xxxxxxxxxxxxx</p>
+        <button  onclick="color()">Raudona</button>
+        <button  onclick="black()">Juoda</button>
+    </div>
+
+    <div>
+        <input name="fh" id="f" type="text" onchange="far()">
+        <input name="cl" id="c" type="text" onchange="cel()">
+    </div>
+
     </body>
     <script type="text/javascript" src="http://localhost/Paskaitos/javascript/paskaita.js"></script>
 </html>

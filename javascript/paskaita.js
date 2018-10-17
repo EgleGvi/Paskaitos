@@ -162,7 +162,7 @@
         }
 
 
-//ciklai
+//CIKLAI
 
 
         var arrayM = [ 22, 64, 0, -55, 4, 7, -1, 8, -66 ];
@@ -271,4 +271,35 @@
                 console.log(i);
             }
         }
+
+
+
+//FUNKCIJOS
+
+      function color () {
+          document.getElementById("red").style.color="red";
+      }
+
+      function black () {
+        document.getElementById("red").style.color="black";
+        }
+
+
+//input farenheitai
+
+        function far() {
+            var fh = document.querySelector('[name="fh"]').value;
+            far = (fh -32) / 1.8;
+
+            var cl = document.querySelector('[name="cl"]') cl.value = far;
+        }
+
+/*function suma() {
+    var eKiekis = document.querySelector('[name="kiekis"]');
+    console.log(eKiekis);
+    var eKaina = document.querySelector('[name="kaina"]');
+    var eSuma = document.querySelector('[name="suma"]');
+    eSuma.value = Number(eKiekis.value) + Number(eKaina.value);
+}
+*/
 

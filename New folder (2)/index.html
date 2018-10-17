@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>JavaScript Tables</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <h1>Record</h1>
+  <div id="text"></div>
+
+  <script>
+    // Create an Arrays
+    var users = ['Ben', 'John', 'Sarah'];
+    var age = [21, 43, 27];
+    var email = ['ben@yahoo.com', 'john@gmail.com', 'sarah@gmail.com'];
+
+    var text = document.getElementById('text');
+    var table = '<table align="center"><thead><tr><th>ID</th><th>Name</th><th>Age</th><th>Email</th></tr></thead><tbody>';
+
+    for (var i = 0; i < users.length; i++) {
+      table += '<tr><td>' + (i + 1) + '</td><td>' + users[i] + '</td><td>' + age[i] + '</td><td>' + email[i] + '</td></tr>';
+    }
+
+    table += '</tbody></table>';
+
+    // Displaying data in HTML
+    text.innerHTML = table;
+  </script>
+</body>
+
+</html>
