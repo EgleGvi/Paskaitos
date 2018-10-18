@@ -1,4 +1,11 @@
-.table-js {
-  border: 2px solid black; }
+#table-js th, td {
+  border: 1px solid black;
+  padding: 10px 15px; }
+
+button {
+  margin-bottom: 30px; }
+
+#fortune {
+  margin-top: 50px; }
 
 /*# sourceMappingURL=js-uzduotys.css.map */

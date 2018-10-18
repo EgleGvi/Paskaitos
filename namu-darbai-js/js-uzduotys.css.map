@@ -1,6 +1,6 @@
 {
 "version": 3,
-"mappings": "AAAA,SAAU;EACN,MAAM,EAAE,eAAe",
+"mappings": "AAAA,gBAAgB;EACd,MAAM,EAAE,eAAe;EACvB,OAAO,EAAE,SAAS;;AAGpB,MAAO;EACL,aAAa,EAAE,IAAI;;AAGrB,QAAS;EACP,UAAU,EAAE,IAAI",
 "sources": ["js-uzduotys.scss"],
 "names": [],
 "file": "js-uzduotys.css"
