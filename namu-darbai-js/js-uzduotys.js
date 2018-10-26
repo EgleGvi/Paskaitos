@@ -1,5 +1,5 @@
 // 19.1
-
+/*
 var x = 369;
 function reverse (x)
 {
@@ -71,7 +71,7 @@ function addTable() {
     var futureYear  = 2012;
     var age  = futureYear - birthYear;
     console.log('I will be either ' + age + ' or ' + (age - 1));
-    */
+
 
 
     var currentAge = 27;
@@ -103,6 +103,122 @@ function addTable() {
         }
     }
 
+
+// namu darbai apie suns metus
+
+
+    var puppyAge = 7;
+    var humanAge = 1;
+    var age = puppyAge * humanAge;
+    function calculateDogAge(age) {
+        console.log(age);
+    }
+
+
+    calculateDogAge(age);
+
+//kitas variantas su masyvu
+
+    var puppyAge=7;
+    var humanAge=[10,15,20];
+
+
+    function calculateDogAge(){
+        for(i=0;i<humanAge.length;i++) {
+            var age=puppyAge*humanAge[i];
+            console.log(age);
+        }
+    }
+    calculateDogAge();
+
+
+
+
+    function myFunction(krastine, krastas, krastelis) {
+            return krastine * krastas * krastelis;
+    }
+    console.log(myFunction(1,5,5));
+
+
+
+
+    function myFunction(krastine, krastas, krastelis, krastulelis) {
+        return krastine + krastas + krastelis + krastulelis;
+    }
+    console.log(myFunction(17,5,5,2));
+
+
+
+
+
+function masyvopaieska(masyviux) {
+
+    var i = 0;
+    var b = masyviux;
+    // [1550, 25, -100, 30]
+    var didziausias = 0;
+    while (i < b.length) {
+        if (b[i] > didziausias) {
+            var didziausias = b[i];
+        }
+        i++;
+    }
+
+    return masyviux;
+}
+
+var a = [150, 55, -100, 305];
+var b = [1550, 25, -100, 30];
+var c = [16, 95, -50, 80];
+console.log( masyvopaieska(b) );
+*/
+
+
+
+// 20.1 uzduotis
+
+var library = [
+    {
+        author: 'Bill Gates',
+        title: 'The Road Ahead',
+        readingStatus: true
+    },
+    {
+        author: 'Steve Jobs',
+        title: 'Walter Isaacson',
+        readingStatus: true
+    },
+    {
+        author: 'Suzanne Collins',
+        title:  'Mockingjay: The Final Book of The Hunger Games',
+        readingStatus: false
+    }];
+
+    //var table = document.getElementById('myTable');
+    for(var i=0; i<library.length; i++) {
+        console.log(library[i]['author']);
+        console.log(library[i]['title']);
+        console.log(book(library[i]['readingStatus']));
+
+        function book(readingStatus){
+            if(readingStatus){
+                return 'Perskaityta';
+            }
+            else{
+                return 'Neskaityta';
+            }
+        }
+    }
+
+   /* var row = table.insertRow();
+    row.insertCell().innerHTML = library[i]['author'];
+    row.insertCell().innerHTML = library[i]['title'];
+    row.insertCell().innerHTML = library[i]['readingStatus'];
+
+    }
+
+
+*/
 
 
 

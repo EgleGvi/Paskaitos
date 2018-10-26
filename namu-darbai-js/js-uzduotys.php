@@ -40,6 +40,16 @@
 </div>
 
 
+<div>
+    <table id="myTable">
+
+    </table>
+</div>
+
+
+
+
+
 
 
 <script type="text/javascript" src="http://localhost/Paskaitos/namu-darbai-js/js-uzduotys.js"></script>

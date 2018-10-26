@@ -1,0 +1,30 @@
+
+#firstDiv {
+    background-color: #949494;
+    width: 200px;
+    height: 100px;
+    margin-top: 50px;
+}
+
+#SecDiv {
+    background-color: #c3e25a;
+    width: 200px;
+    height: 100px;
+}
+
+#thirdDiv {
+    background-color: burlywood;
+    width: 200px;
+    height: 100px;
+    margin-bottom: 50px;
+}
+
+.red {
+    background-color: red;
+    height: 50px;
+    width: 200px;
+}
+
+.blue {
+    background-color: blue;
+}
