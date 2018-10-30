@@ -1,6 +1,7 @@
 <html>
 <head>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.2/css/all.css" integrity="sha384-/rXc/GQVaYpyDdyxK+ecHPVYJSN9bmVFBvjA/9eOB+pb3F2w2N6fc5qB9Ew5yIns" crossorigin="anonymous">
     <link rel="stylesheet" href="style.css">
     <script
             src="https://code.jquery.com/jquery-3.3.1.min.js"
@@ -39,6 +40,20 @@
     </div>
 </div>
 <button id="btn-delete">Delete</button>
+
+<div class="nav-wrapper">
+    <button class="btn-icon"><i class="fas fa-bars"></i></button>
+    <ul class="nav">
+        <li><a href="">HOME</a></li>
+        <li><a href="">NEWS</a></li>
+        <li><a href="">PORTFOLIO</a></li>
+        <li><a href="">BLOG</a></li>
+        <li><a href="">CONTACT</a></li>
+    </ul>
+</div>
+
+
+
 
 </body>
 <script type="text/javascript" src="http://localhost/Paskaitos/jquery-namu-darbai/jq-nd.js"></script>

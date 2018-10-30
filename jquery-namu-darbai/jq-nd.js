@@ -16,6 +16,24 @@ $('#btn-delete').click(function (){
     $('.hwh-items-wrapper *').removeAttr('class');
     $(".hwh-items-wrapper").attr( "class","items-wrapper" );
     $('div').removeClass('.hwh-items-wrapper');
+    $('p').css("color","red");
+    $('div').css("background-color","grey");
 });
+
+//burger-menu
+
+  /*  $('#nav').hide();
+    $('.btn-icon').click(function (){
+    $('#nav').toggle();
+});
+   */
+
+
+
+    $('.btn-icon').click(function (){
+        $('.nav').toggleClass('navTwo');
+    });
+
+
 
 

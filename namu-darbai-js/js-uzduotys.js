@@ -1,5 +1,5 @@
 // 19.1
-/*
+
 var x = 369;
 function reverse (x)
 {
@@ -66,19 +66,20 @@ function addTable() {
     console.log(calc);
     console.log(calc-1);
 
-    /*
+/*
     var birthYear = 1984;
     var futureYear  = 2012;
     var age  = futureYear - birthYear;
     console.log('I will be either ' + age + ' or ' + (age - 1));
 
-
+*/
 
     var currentAge = 27;
     var maxAge = 50;
     var snack = 4;
 
     console.log((maxAge - currentAge) * (365 * snack));
+
 
 
 
@@ -171,7 +172,6 @@ var a = [150, 55, -100, 305];
 var b = [1550, 25, -100, 30];
 var c = [16, 95, -50, 80];
 console.log( masyvopaieska(b) );
-*/
 
 
 
@@ -210,15 +210,69 @@ var library = [
         }
     }
 
-   /* var row = table.insertRow();
+ /* var row = table.insertRow();
     row.insertCell().innerHTML = library[i]['author'];
     row.insertCell().innerHTML = library[i]['title'];
     row.insertCell().innerHTML = library[i]['readingStatus'];
 
     }
+ */
 
-
+/*
+A chess board has 8x8 = 64 squares.
+The top left square is white and then it alternates with black.
+Write a program, that tells you the color of a square, when you enter it's number.
 */
+
+function oddRow(number) {
+    if (number % 2 == 0) {
+        console.log("Black");
+    } else {
+        console.log("White");
+    }
+}
+
+function evenRow(number) {
+    if (number % 2 == 1) {
+        console.log("Black");
+    } else {
+        console.log("White");
+    }
+}
+
+function assignment(number) {
+    if ((number >= 1 && number <= 8) || (number >= 17 && number <= 24) || (number >= 33 && number <= 40) || (number >= 49 && number <= 56)) {
+        oddRow(number);
+    } else {
+        evenRow(number);
+    }
+}
+var chessBoard = [
+    "w", "b", "w", "b", "w", "b", "w", "b",
+    "b", "w", "b", "w", "b", "w", "b", "w",
+    "w", "b", "w", "b", "w", "b", "w", "b",
+    "b", "w", "b", "w", "b", "w", "b", "w",
+    "w", "b", "w", "b", "w", "b", "w", "b",
+    "b", "w", "b", "w", "b", "w", "b", "w",
+    "w", "b", "w", "b", "w", "b", "w", "b",
+    "b", "w", "b", "w", "b", "w", "b", "w"
+]
+
+function assignment(number) {
+    if (number > 0 && number <= 64) {
+        var cell = chessBoard[number - 1];
+        if (cell == "w") {
+            console.log("White");
+        } else {
+            console.log("Black");
+        }
+    } else {
+        console.log("Invalid number");
+    }
+}
+
+
+
 
 
 

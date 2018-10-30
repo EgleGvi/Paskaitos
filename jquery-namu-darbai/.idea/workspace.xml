@@ -2,10 +2,198 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa56f0a0-0ff5-42eb-8ff9-4e6ea4f0f14f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../New folder (2)/ND.rar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder (2)/Sablonas.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../13paskaita/footer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../13paskaita/header.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../13paskaita/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../13paskaita/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../13paskaita/style.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../13paskaita/style.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder (2)/ND/ND.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder (2)/ND/css/pagrindinis.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder (2)/ND/css/pagrindinis.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder (2)/ND/css/pagrindinis.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder (2)/ND/css/pagrindinis.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder (2)/ND/footer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder (2)/ND/header.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder (2)/ND/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder (2)/New folder/apie-mus.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder (2)/New folder/bio PSD headeris.7z" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder (2)/New folder/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder (2)/New folder/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder (2)/New folder/footer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder (2)/New folder/header.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder (2)/New folder/img/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder (2)/New folder/img/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder (2)/New folder/img/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder (2)/New folder/img/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder (2)/New folder/img/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder (2)/New folder/img/6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder (2)/New folder/img/ernis-gyvulys.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder (2)/New folder/img/katinukas-gyvunelis.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder (2)/New folder/img/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder (2)/New folder/img/new-header/cart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder (2)/New folder/img/new-header/logo_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder (2)/New folder/img/new-header/main-subtop-background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder (2)/New folder/img/new-header/slider-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder (2)/New folder/img/new-header/subtop-shadow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder (2)/New folder/img/new-header/subtop-stripes.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder (2)/New folder/img/slider.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder (2)/New folder/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder (2)/New folder/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder (2)/New folder/js/jquery-3.3.1.slim.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder (2)/New folder/js/popper.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder (2)/New folder/kontaktai.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder (2)/Sablonas/Sablonas.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder (2)/Sablonas/css/pagrindinis.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder (2)/Sablonas/css/pagrindinis.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder (2)/Sablonas/footer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder (2)/Sablonas/header.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder (2)/Sablonas/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder (2)/apie-mus.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder (2)/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder (2)/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder (2)/footer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder (2)/header.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder (2)/img/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder (2)/img/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder (2)/img/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder (2)/img/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder (2)/img/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder (2)/img/6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder (2)/img/ernis-gyvulys.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder (2)/img/katinukas-gyvunelis.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder (2)/img/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder (2)/img/new-header/cart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder (2)/img/new-header/logo_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder (2)/img/new-header/main-subtop-background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder (2)/img/new-header/slider-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder (2)/img/new-header/subtop-shadow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder (2)/img/new-header/subtop-stripes.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder (2)/img/slider.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder (2)/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder (2)/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder (2)/js.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder (2)/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder (2)/js/jquery-3.3.1.slim.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder (2)/js/popper.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder (2)/kontaktai.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder (2)/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder (3)/01.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder (3)/02.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder (3)/02.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder (3)/03.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder (3)/04.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder (3)/05.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder (3)/21-jquery.7z" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder (3)/assets/ajax-loader.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder (3)/assets/owl.carousel.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder (3)/assets/owl.carousel.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder (3)/assets/owl.theme.default.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder (3)/assets/owl.theme.default.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder (3)/assets/owl.theme.green.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder (3)/assets/owl.theme.green.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder (3)/assets/owl.video.play.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder (3)/owl.carousel.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder (3)/owl.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder/paskaita.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder/paskaita.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Paskaitos" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Photoshop/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Photoshop/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../biolatte mockup 4 (i moosepro 2).psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../destytojo psl/11-praktika.7z" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../destytojo psl/New folder/11-praktika.7z" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../destytojo psl/New folder/apie-mus.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../destytojo psl/New folder/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../destytojo psl/New folder/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../destytojo psl/New folder/footer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../destytojo psl/New folder/header.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../destytojo psl/New folder/img/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../destytojo psl/New folder/img/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../destytojo psl/New folder/img/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../destytojo psl/New folder/img/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../destytojo psl/New folder/img/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../destytojo psl/New folder/img/6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../destytojo psl/New folder/img/ernis-gyvulys.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../destytojo psl/New folder/img/katinukas-gyvunelis.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../destytojo psl/New folder/img/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../destytojo psl/New folder/img/slider.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../destytojo psl/New folder/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../destytojo psl/New folder/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../destytojo psl/New folder/js/jquery-3.3.1.slim.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../destytojo psl/New folder/js/popper.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../destytojo psl/New folder/kontaktai.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../destytojo psl/apie-mus.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../destytojo psl/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../destytojo psl/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../destytojo psl/footer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../destytojo psl/header.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../destytojo psl/img/ernis-gyvulys.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../destytojo psl/img/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../destytojo psl/img/slider.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../destytojo psl/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../destytojo psl/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../destytojo psl/js/jquery-3.3.1.slim.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../destytojo psl/js/popper.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../destytojo psl/kontaktai.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../destytojo-darbas/header.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../img/ernis-gyvulys.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../img/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../img/slider.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javascript/paskaita.js" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/paskaita.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jq-nd.js" beforeDir="false" afterPath="$PROJECT_DIR$/jq-nd.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/namu-darbai.php" beforeDir="false" afterPath="$PROJECT_DIR$/namu-darbai.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/style.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/style.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../js/jquery-3.3.1.slim.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../js/popper.min.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../namu-darbai-js/js-uzduotys.js" beforeDir="false" afterPath="$PROJECT_DIR$/../namu-darbai-js/js-uzduotys.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../namu-darbai-js/js-uzduotys.php" beforeDir="false" afterPath="$PROJECT_DIR$/../namu-darbai-js/js-uzduotys.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../puslapis/apie-mus.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../puslapis/footer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../puslapis/header.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../puslapis/komanda.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../puslapis/kontaktai.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../puslapis/musu-partneriai.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../puslapis/pradinis.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../puslapis/puslapis.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../puslapis/vreffect.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../skaidres/fe-16-objects.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../women/Desktop-1-mazinta.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../women/Women go tech.7z" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../women/footer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../women/header.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../women/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../women/karpyti-failai/eiga/birzelis.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../women/karpyti-failai/eiga/gruodis.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../women/karpyti-failai/eiga/lapkritis.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../women/karpyti-failai/eiga/sausis.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../women/karpyti-failai/eiga/vasaris.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../women/karpyti-failai/facebook-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../women/karpyti-failai/footer-icons/email.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../women/karpyti-failai/footer-icons/facebook.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../women/karpyti-failai/footer-icons/linkedin.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../women/karpyti-failai/footer-icons/phone.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../women/karpyti-failai/footer-icons/youtube.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../women/karpyti-failai/linkedin-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../women/karpyti-failai/melynas.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../women/karpyti-failai/pagrindine.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../women/karpyti-failai/penki.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../women/karpyti-failai/pink_bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../women/karpyti-failai/pink_bg_mob.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../women/karpyti-failai/slider.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../women/karpyti-failai/twitter-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../women/karpyti-failai/wgt-favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../women/karpyti-failai/wgt_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../women/karpyti-failai/zalias.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../women/karpyti-failai/zmones/zmogus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../women/karpyti-failai/zmones/zmogus2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../women/karpyti-failai/zmones/zmogus3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../women/stylescss.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../women/stylescss.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../women/stylescss.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../womenGOtech/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/../womenGOtech/header.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,125 +205,71 @@
     <session id="-1051704945">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="7" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.6" value="2" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.8" value="2" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="css" value="1" />
+          <entry key="css" value="3" />
           <entry key="html" value="3" />
-          <entry key="js" value="4" />
-          <entry key="php" value="2" />
-          <entry key="scss" value="1" />
+          <entry key="js" value="14" />
+          <entry key="php" value="24" />
+          <entry key="scss" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSS" value="1" />
+          <entry key="CSS" value="3" />
           <entry key="HTML" value="3" />
-          <entry key="JavaScript" value="4" />
-          <entry key="PHP" value="2" />
-          <entry key="SCSS" value="1" />
+          <entry key="JavaScript" value="14" />
+          <entry key="PHP" value="24" />
+          <entry key="SCSS" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="11" />
-          <entry key="js" value="330" />
-          <entry key="php" value="236" />
-          <entry key="scss" value="9" />
+          <entry key="css" value="56" />
+          <entry key="js" value="564" />
+          <entry key="php" value="690" />
+          <entry key="scss" value="1117" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="11" />
-          <entry key="JavaScript" value="330" />
-          <entry key="PHP" value="236" />
-          <entry key="SCSS" value="9" />
+          <entry key="CSS" value="56" />
+          <entry key="JavaScript" value="564" />
+          <entry key="PHP" value="690" />
+          <entry key="SCSS" value="1117" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.56845635">
-      <split-first>
-        <leaf>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/../jquery/jquery.php">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-479">
-                  <caret line="85" column="11" selection-start-line="85" selection-start-column="11" selection-end-line="85" selection-end-column="11" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/namu-darbai.php">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="423">
-                  <caret line="37" column="36" lean-forward="true" selection-start-line="37" selection-start-column="36" selection-end-line="37" selection-end-column="36" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/../jquery/js.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="264">
-                  <caret line="54" column="18" lean-forward="true" selection-start-line="54" selection-start-column="18" selection-end-line="54" selection-end-column="18" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/jq-nd.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="462">
-                  <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-                  <folding>
-                    <element signature="n#!!doc" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/style.scss">
-              <provider selected="true" editor-type-id="text-editor" />
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/../New folder (3)/02.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-303" />
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/../New folder (3)/03.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-3" />
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/../New folder (3)/01.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="151">
-                  <caret line="16" column="4" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../../biolatte/header.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>slider-block</find>
+      <find>banner-wrapper</find>
+      <find>banner</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -144,9 +278,23 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/style.css" />
+        <option value="$PROJECT_DIR$/../javascript/paskaita.js" />
+        <option value="$PROJECT_DIR$/../namu-darbai-js/js-uzduotys.js" />
+        <option value="$PROJECT_DIR$/jq-nd.js" />
         <option value="$PROJECT_DIR$/style.scss" />
         <option value="$PROJECT_DIR$/namu-darbai.php" />
-        <option value="$PROJECT_DIR$/jq-nd.js" />
+        <option value="$PROJECT_DIR$/../../biolatte/js/biolatte.js" />
+        <option value="$PROJECT_DIR$/../New folder (4)/header.php" />
+        <option value="$PROJECT_DIR$/../New folder (4)/css/style.css" />
+        <option value="$PROJECT_DIR$/../New folder (4)/head.php" />
+        <option value="$PROJECT_DIR$/../New folder (4)/js/js.js" />
+        <option value="$PROJECT_DIR$/../../biolatte/header.php" />
+        <option value="$PROJECT_DIR$/../../biolatte/js/js.js" />
+        <option value="$PROJECT_DIR$/../../biolatte/index.php" />
+        <option value="$PROJECT_DIR$/../../biolatte/footer.php" />
+        <option value="$PROJECT_DIR$/../../biolatte/css/style.scss" />
+        <option value="$PROJECT_DIR$/../womenGOtech/header.php" />
+        <option value="$PROJECT_DIR$/../Photoshop/header.php" />
       </list>
     </option>
   </component>
@@ -156,7 +304,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="85" />
     <option name="y" value="25" />
     <option name="width" value="1750" />
@@ -167,7 +315,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -179,11 +326,12 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../jquery/js.js" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../13paskaita/header.php" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -210,23 +358,26 @@
       <option name="presentableId" value="Default" />
       <updated>1540533551528</updated>
       <workItem from="1540533552637" duration="12107000" />
+      <workItem from="1540626332550" duration="9064000" />
+      <workItem from="1540645521319" duration="851000" />
+      <workItem from="1540755241372" duration="7000" />
+      <workItem from="1540794789116" duration="15549000" />
+      <workItem from="1540837520828" duration="8243000" />
+      <workItem from="1540880819457" duration="4945000" />
+      <workItem from="1540885838649" duration="202000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12107000" />
+    <option name="totallyTimeSpent" value="50968000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.0" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.039597314" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -234,11 +385,37 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.05771812" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -250,54 +427,150 @@
     <entry file="file://$PROJECT_DIR$/style.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/../New folder (3)/03.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/../New folder (3)/01.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
+        <state relative-caret-position="352">
           <caret line="16" column="4" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../New folder (3)/03.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/style.scss">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/../New folder (3)/02.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-303" />
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/../jquery/jquery.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-479">
-          <caret line="85" column="11" selection-start-line="85" selection-start-column="11" selection-end-line="85" selection-end-column="11" />
+        <state relative-caret-position="-2349">
+          <caret line="3" column="42" selection-start-line="3" selection-start-column="42" selection-end-line="3" selection-end-column="42" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../javascript/paskaita.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="613">
+          <caret line="306" selection-start-line="306" selection-end-line="306" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../biolatte/css/owl.carousel.css" />
+    <entry file="file://$PROJECT_DIR$/../../biolatte/js/biolatte.js" />
+    <entry file="file://$PROJECT_DIR$/../New folder (4)/header.php" />
+    <entry file="file://$PROJECT_DIR$/../New folder (4)/js/js.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="15" lean-forward="true" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../New folder (4)/css/style.css">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/../jquery/js.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="54" column="18" lean-forward="true" selection-start-line="54" selection-start-column="18" selection-end-line="54" selection-end-column="18" />
+        <state relative-caret-position="-985">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/namu-darbai.php">
+    <entry file="file://$PROJECT_DIR$/../namu-darbai-js/js-uzduotys.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="423">
-          <caret line="37" column="36" lean-forward="true" selection-start-line="37" selection-start-column="36" selection-end-line="37" selection-end-column="36" />
+        <state relative-caret-position="2051">
+          <caret line="274" lean-forward="true" selection-start-line="274" selection-end-line="274" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/jq-nd.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        <state relative-caret-position="173">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/namu-darbai.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="31" lean-forward="true" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../namu-darbai-js/js-uzduotys.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../javascript/javascript.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="25" column="25" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../New folder (4)/head.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../biolatte/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="44" column="34" lean-forward="true" selection-start-line="44" selection-start-column="34" selection-end-line="44" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../biolatte/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="72" column="47" selection-start-line="72" selection-start-column="47" selection-end-line="72" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../biolatte/css/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="90" column="15" lean-forward="true" selection-start-line="90" selection-start-column="15" selection-end-line="90" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../biolatte/js/js.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="14" lean-forward="true" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../New folder (2)/index.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../womenGOtech/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Photoshop/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="35" lean-forward="true" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../13paskaita/header.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../biolatte/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
         </state>
       </provider>
     </entry>
